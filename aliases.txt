@@ -4,6 +4,7 @@ Helpful Dev Bashes
 # General
 alias htdocs="/path/to/htdocs"
 alias mysql="/path/to/mysql"
+alias zshrc="atom ~/.zshrc"
 
 # Laravel
 alias art="php artisan"
@@ -12,7 +13,7 @@ alias fresh="php artisan migrate:refresh -seed"
 alias serve="php artisan serve"
 alias migrate="php artisan migrate"
 alias rback="php artisan migrate:rollback"
-alias model="php artisan make:model -m "
+alias model="php artisan make:model -m"
 alias migration="php artisan make:migration"
 
 # PHPUnit
@@ -29,6 +30,7 @@ alias cu="composer update"
 alias ga="git add"
 alias gc="git commit -m"
 alias gp="git pull"
+alias gs="git status"
 alias gcb="git checkout"
 alias gnb="git checkout -b "
 alias gri="git rm -r --cached ."
