@@ -1,6 +1,10 @@
 # devbash
 Helpful Dev Bashes
 
+# General
+alias htdocs="/path/to/htdocs"
+alias mysql="/path/to/mysql"
+
 # Laravel
 alias art="php artisan"
 alias migrate="php artisan migrate"
